@@ -7,7 +7,7 @@ const AboutSection = () => {
       <div className="about-left">
         <h1>ABOUT ME</h1>
         <img src={aboutImg} alt="Profile" />
-        <p>Oii, sou a Manuela! Tenho 18 anos, gosto de ler, sair com minha família e meus amigos e, por meio da <b>tecnologia,</b> busco transformar o mundo em um lugar melhor!</p>
+        <p>Hii, I'm Manuela! I'm 18 years old, I like reading, hanging out with my family and friends and, through <b>technology,</b> I try to make the world a better place!</p>
       </div>
 
       <div className="about-right">
@@ -24,21 +24,21 @@ const AboutSection = () => {
         <div className="section">
           <h2>PERSONAL SKILLS</h2>
           <ul>
-            <li>Liderança</li>
-            <li>Determinação</li>
-            <li>Organização</li>
-            <li>Responsabilidade</li>
-            <li>Sociabilidade</li>
+          <li>Leadership</li>
+          <li>Determination</li>
+          <li>Organization</li>
+          <li>Responsibility</li>
+          <li>Sociability</li>
           </ul>
         </div>
         <div className="section">
           <h2>MISSION</h2>
-          <p>Busco ser <b>luz na vida das pessoas,</b> oferecendo ajuda, gentileza e inspiração onde quer que eu vá. Minha missão é causar um impacto positivo a cada dia, utilizando minhas ações e meu trabalho para elevar as pessoas e contribuir para um mundo melhor. Acredito que até mesmo pequenos gestos podem gerar mudanças significativas, e me comprometo a viver com propósito e compaixão, seguindo o chamado para ser "o sal da terra" Mateus 5,13.</p>
+          <p>I strive to be a <b>light in people's lives</b>, offering help, kindness, and inspiration wherever I go. My mission is to make a positive impact every day by using my actions and work to lift others up and contribute to a better world. I believe that even small gestures can create meaningful change, and I commit to living with purpose and compassion, following the call to be "the salt of the earth" Matthew 5,13.</p>
         </div>
 
         <div className="section">
           <h2>VISION</h2>
-          <p>Visualizo um mundo onde cada pessoa reconheça sua capacidade de <b>promover transformações positivas.</b> Aspiro trabalhar em áreas que gerem mudanças reais, ajudando outros a terem uma vida melhor e tornando o mundo um lugar mais iluminado e cheio de esperança. <b>Cada dia é uma nova oportunidade de crescer, servir e deixar um legado de bondade e luz.</b></p>
+          <p>I envision a world where every person recognizes their ability to <b>promote positive change.</b> I aspire to work in areas that generate real change, helping others to have a better life and making the world a brighter and more hopeful place. <b>Every day is a new opportunity to grow, serve and leave a legacy of kindness and light.</b></p>
         </div>
       </div>
     </section>

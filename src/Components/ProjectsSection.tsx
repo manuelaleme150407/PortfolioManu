@@ -38,7 +38,7 @@ const ProjectsSection = () => {
 
       <div className="projects-bottom">
         <div className="volunteer-text">
-          <p>Faço parte de um grupo de jovens da minha igreja, onde participo ativamente de atividades que promovem o crescimento pessoal e comunitário. Já atuei na área de promoção humana, ajudando pessoas em situação de vulnerabilidade. Também já participei de visitas a casas de acolhimento de crianças à espera de adoção e a instituições que cuidam de idosos. Essas experiências me ensinaram a <b>importância da empatia, da solidariedade e do compromisso com a transformação social.</b></p>
+          <p>I am part of a youth group at my church, where I actively participate in activities that promote personal and community growth. I have worked in the area of ​​human development, helping people in vulnerable situations. I have also participated in visits to shelters for children waiting for adoption and institutions that care for the elderly. These experiences have taught me the <b>importance of empathy, solidarity and commitment to social transformation.</b></p>
         </div>
 
         <div className="volunteer-image">
